@@ -1,10 +1,8 @@
-# CODTECH-INTERNSHIP-Task1
-
 **Name:** MANIKANDAN.R <br />
 **Company:** CODTECH IT SOLUTIONS <br />
-**ID:**
-**Domain:** Frontend Development
-**Duration:**
+**ID:** <br />
+**Domain:** Frontend Development <br />
+**Duration:** <br />
 
 ## Overview of the project
 
